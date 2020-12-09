@@ -1,5 +1,4 @@
 name: rise-environment
-channels:
-  - conda-forge
+
 dependencies:
   - rise
