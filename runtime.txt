@@ -1,0 +1,4 @@
+r-3.6-2019-04-12
+ipywidgets
+jupyter_contrib_nbextensions
+rise==5.5.0
